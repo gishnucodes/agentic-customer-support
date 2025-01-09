@@ -1,0 +1,7 @@
+ipykernel
+requests
+langchain-community
+langchain_google_genai
+faiss-cpu
+langgraph
+openai
