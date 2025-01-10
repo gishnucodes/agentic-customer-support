@@ -5,3 +5,4 @@ langchain_google_genai
 faiss-cpu
 langgraph
 openai
+groq
