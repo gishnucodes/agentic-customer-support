@@ -6,3 +6,5 @@ faiss-cpu
 langgraph
 openai
 groq
+langchain-openai
+traceloop-sd
